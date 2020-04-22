@@ -3,7 +3,7 @@ GLSL texture sharing between Touchdesigner and Unity using Syphon / KlakSyphon
 
 Allows for GLSL texture sharing between TouchDesigner and Unity using KlakSyphon. 
 
-Instructons for use: 
+Instructons For uUe: 
 1. Download KlakSyphon at: https://github.com/keijiro/KlakSyphon
 2. Drag Unity client from this repo into the KlakSyphon Assets folder.
 3. Open TouchDesigner. Make certain your webcam is streaming by selecting the correct video input in the VideoDeviceIn TOP. 
